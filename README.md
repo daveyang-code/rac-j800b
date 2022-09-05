@@ -4,9 +4,7 @@ This is a simple mod to replace the USB-B jack on the RAC-J800B with a much more
 
 ## Required Materials
 
-USB-C Breakout Board
-
-https://www.adafruit.com/product/5180
+USB-C Breakout Board https://www.adafruit.com/product/5180
 
 4-PIN JST-PH Connector
 
