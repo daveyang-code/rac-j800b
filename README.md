@@ -12,11 +12,11 @@ USB-C Breakout Board https://www.adafruit.com/product/5180
 
 ### SOCD Switch
 
-M2x6 (2)
-
-M3x4 (2)
+Seeed Xiao SAMD21
 
 Slide switch
+
+M2x6 (2), M3x4 (2)
 
 ## Removing the Top Panel
 
